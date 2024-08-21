@@ -1,0 +1,9 @@
+# Ignored directories and files
+dist
+build
+tmp
+SIGAgent-tcp*
+nbproject/private
+nbproject/*~
+*.log*
+config.properties

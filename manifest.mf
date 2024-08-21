@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+X-COMMENT: Main-Class will be added automatically by build
+Rsrc-Class-Path: ./
+                META-INF/lib/sigar/log4j.jar
+                META-INF/lib/sigar/sigar.jar
+                META-INF/lib/jackson-annotations-2.7.9.jar
+                META-INF/lib/jackson-core-2.7.9.jar
+                META-INF/lib/jackson-databind-2.7.9.jar
+                META-INF/lib/org.eclipse.paho.client.mqttv3-1.1.1.jar
+                META-INF/lib/slf4j-api-1.7.6.jar
+                META-INF/lib/utilities.jar
+Class-Path: .
+Rsrc-Main-Class: com.jaianper.sigagent.SIGAgent
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
