@@ -1,7 +1,7 @@
 # sig-agent
 
 [1. System Info Gatherer Agent](#1-system-info-gatherer-agent)  
-[1.1. Herramientas usadas](#11-tools-used)  
+[1.1. Tools used](#11-tools-used)  
 [1.2. Compilation](#12-compilation)  
 [1.3. Execution](#13-execution)  
 [2. The Sigar API](#2-the-sigar-api)  
@@ -175,4 +175,4 @@ The SIGAR binary distribution contains the following files in `sigar-bin/lib`:
 ### 2.4. Source code and documentation
 
 * Official project link -> [[GitHub]](https://github.com/hyperic/sigar)  
-* Source code and documentation in the cloud -> [[OneDrive]](https://iptotalteams-my.sharepoint.com/:f:/g/personal/jaider_pechene_iptotal_com/EkPw3VQl05VDoo84brJ5W-0B4VzE4y9I4XHwBf_EtJPnKg?e=wGN6sn)  
+* Source code and documentation in the cloud -> [[OneDrive]](https://drive.google.com/drive/folders/1TFWTriluRwecxJCbPh863rnB9SGUe6ja?usp=sharing)  
