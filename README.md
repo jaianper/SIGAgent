@@ -175,4 +175,4 @@ The SIGAR binary distribution contains the following files in `sigar-bin/lib`:
 ### 2.4. Source code and documentation
 
 * Official project link -> [[GitHub]](https://github.com/hyperic/sigar)  
-* Source code and documentation in the cloud -> [[OneDrive]](https://drive.google.com/drive/folders/1TFWTriluRwecxJCbPh863rnB9SGUe6ja?usp=sharing)  
+* Source code and documentation in the cloud -> [[Drive]](https://drive.google.com/drive/folders/1TFWTriluRwecxJCbPh863rnB9SGUe6ja?usp=sharing)  
